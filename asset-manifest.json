@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.fffc8acc.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.8dcb90d5.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.8dcb90d5.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.ebaa2495.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.ebaa2495.js.map",
+    "static/js/2.a989cf1c.chunk.js": "/ReactPortfolio/static/js/2.a989cf1c.chunk.js",
+    "static/js/2.a989cf1c.chunk.js.map": "/ReactPortfolio/static/js/2.a989cf1c.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.acfdcc778341c19985b50f356176c26b.js": "/ReactPortfolio/precache-manifest.acfdcc778341c19985b50f356176c26b.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/main.fffc8acc.chunk.css.map": "/ReactPortfolio/static/css/main.fffc8acc.chunk.css.map",
+    "static/js/2.a989cf1c.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.a989cf1c.chunk.js.LICENSE.txt",
+    "static/media/BalooTamma2-Medium.ttf": "/ReactPortfolio/static/media/BalooTamma2-Medium.5b50965d.ttf",
+    "static/media/fittnesstracker.png": "/ReactPortfolio/static/media/fittnesstracker.77f7e699.png",
+    "static/media/image.jpg": "/ReactPortfolio/static/media/image.62a46210.jpg",
+    "static/media/resume.pdf": "/ReactPortfolio/static/media/resume.9e79c422.pdf",
+    "static/media/scope.png": "/ReactPortfolio/static/media/scope.122fa7be.png",
+    "static/media/travelbuddy.png": "/ReactPortfolio/static/media/travelbuddy.27021cf3.png",
+    "static/media/weatherapp.png": "/ReactPortfolio/static/media/weatherapp.f5d2bf64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebaa2495.js",
+    "static/js/2.a989cf1c.chunk.js",
+    "static/css/main.fffc8acc.chunk.css",
+    "static/js/main.8dcb90d5.chunk.js"
+  ]
+}
